@@ -1,13 +1,33 @@
 # Hi, friends! 👋
 
-My name is Michel, and I'm an Italian-Brazilian PhD in Economics and a self-taught developer.
-I'm new to GitHub, but I've been working on the development of **computational models for economic and financial analysis** for almost 20 years. Soon, I'll be sharing some of my work here.
+My name is **Michel**, and I'm an *Italian-Brazilian PhD in Economics* and a *self-taught developer*.  
+I'm passionate about creating **efficient, elegant, and scalable digital solutions** that help people and businesses thrive.
 
-I was born in Brazil but now live in Italy, near Rome. For 15 years, I worked as an **Economics professor**, teaching corporate finance, economic modeling, and entrepreneurship. Currently, I work as a **consultant** and develop personal projects that I hope will bring valuable insights (and maybe some returns!) in the future.
+For nearly 20 years, I’ve worked on **computational models for economic and financial analysis**, combining academic research with hands-on development. After more than 15 years as a **university professor** in Brazil, I moved to Italy, near Rome, where I now focus on **web development** and **digital transformation consulting**.
 
-My coding experience includes **C++, NetLogo, CUDA, HTML, CSS, JavaScript, PHP, and Python**, but in the last year, I've been focusing more on **web technologies** and frameworks compatible with modern development practices.
+As a **full-stack developer** specializing in **PHP (Laravel)**, JavaScript, and modern web technologies, I build custom web applications — from e-learning platforms to content distribution systems and e-commerce solutions.  
+I also work as a **project manager**, coordinating small teams and guiding projects from requirements analysis to delivery and long-term maintenance.
+
+My background in economics gives me a unique perspective on how technology can solve real-world problems, making processes more efficient and data-driven.
+
+🌐 **Website:** [cantagalo.it](https://cantagalo.it)
+
+---
+
+### 🧰 Tech Stack
+- **Languages & Frameworks:** PHP (Laravel), JavaScript, Python, C++, HTML5, CSS3  
+- **Databases:** MySQL, PostgreSQL *(basic)*  
+- **Cloud & Infra:** AWS (EC2, S3), REST APIs, Git, Docker *(familiarity)*  
+- **Other:** Simulation modeling, automated testing *(basic)*
+
+### 🧭 Core Skills
+- Full-stack web development  
+- Project & team management  
+- Problem solving  
+- Applied economic modeling
+
+---
 
 If you think I can help with something or just want to connect, feel free to reach out!
-
 
 **See you around! 🚀**
